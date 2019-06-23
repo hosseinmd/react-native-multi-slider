@@ -1,11 +1,8 @@
 {
   "name": "react-native-easy-slider",
-  "version": "2.0.0",
-  "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
+  "version": "0.0.1",
+  "description": "React-Native (Android,iOS) and React-Native-Web supported pure JS slider component with multiple markers",
   "main": "MultiSlider.js",
-  "scripts": {
-    "prettier": "prettier --single-quote --trailing-comma all --bracket-spacing --write \"**/*.js\""
-  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hosseinmd/react-native-easy-slider.git"
@@ -21,20 +18,22 @@
     "react-native",
     "component",
     "ios",
-    "android"
+    "android",
+    "react-native-web",
+    "hossein mohammadi"
   ],
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
-    }  
+    }
   },
   "lint-staged": {
     "*.js": [
-      "./node_modules/.bin/prettier --single-quote --trailing-comma all --bracket-spacing --write",
+      "./node_modules/.bin/prettier --trailing-comma all --bracket-spacing --write",
       "git add"
     ]
-  },  
-  "author": "Tomas Roos <hosseinmd@gmail.com>",
+  },
+  "author": "hossein mohammadi <hosseinm.developer@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
