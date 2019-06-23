@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-slider",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "React-Native (Android,iOS) and React-Native-Web supported pure JS slider component with multiple markers",
   "main": "MultiSlider.js",
   "repository": {
