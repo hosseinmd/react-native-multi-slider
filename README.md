@@ -7,7 +7,7 @@ Options to customize track, touch area and provide customer markers and callback
 
 [![install size](https://packagephobia.now.sh/badge?p=react-native-easy-slider)](https://packagephobia.now.sh/result?p=react-native-easy-slider) [![dependencies](https://david-dm.org/hosseinmd/react-native-easy-slider.svg)](https://david-dm.org/hosseinmd/react-native-easy-slider.svg)
 
-![Example](https://raw.githubusercontent.com/hosseinmd/react-native-easy-slider/master/docs/demo.gif)
+![Example](https://github.com/hosseinmd/react-native-multi-slider/raw/master/docs/demo.gif)
 
 ## Getting Started
 
